@@ -6,7 +6,7 @@ conda create -n venv python=3.9
 ```
 ```bash
 conda activate venv
-
+```
 ### STEP 2 - Install required packages
 ```bash
 conda install -c conda-forge ffmpeg
