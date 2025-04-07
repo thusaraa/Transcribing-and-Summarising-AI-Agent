@@ -1,0 +1,3 @@
+conda activate venv
+
+https://www.youtube.com/watch?v=N-PW7ll-T7w&t=1952s&ab_channel=Euron
